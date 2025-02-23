@@ -37,7 +37,11 @@ _User Registration:_
 
 _Book Operations:_
 **POST** /api/books: Add a new book.
+
 **GET** /api/books/{id}: Retrieve details of a book.
+
 **PUT** /api/books/{id}: Update book information.
+
 **DELETE** /api/books/{id}: Soft delete a book.
+
 **GET** /api/books/popular: Retrieve popular books based on views.
