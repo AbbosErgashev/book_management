@@ -24,6 +24,7 @@ The Admin role is distinguished by the credentials mentioned above.
 **_Swagger Documentation_**
 The API includes Swagger UI for interactive API documentation. It allows you to test API calls directly from the browser.
 Swagger requires an Authorization token to test any protected endpoints. This token should be prefixed by Bearer, e.g., 
+
 Authorization: **Bearer {your-token-here}.**
 
 **_Error Handling_**
